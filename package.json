@@ -1,0 +1,23 @@
+{
+  "name": "speech-police",
+  "version": "1.0.0",
+  "description": "Discord Bot for Voice Chat Moderation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fracho123/Speech-Police.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fracho123/Speech-Police/issues"
+  },
+  "homepage": "https://github.com/fracho123/Speech-Police#readme",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
