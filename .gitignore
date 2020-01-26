@@ -89,3 +89,6 @@ typings/
 
 # auth
 auth.json
+
+# gcp-auth
+gcp-auth.json

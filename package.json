@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/fracho123/Speech-Police#readme",
   "dependencies": {
+    "@google-cloud/speech": "^3.5.4",
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
     "winston": "^3.2.1"
   }
